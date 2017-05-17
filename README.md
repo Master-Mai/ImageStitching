@@ -1,0 +1,2 @@
+# ImageStitching
+Simple image stitching.
